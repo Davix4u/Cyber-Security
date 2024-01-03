@@ -50,13 +50,7 @@ A Network topology refers to the arrangement or a layout of devices and connecti
 
 
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
 
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
-
-<img width="830" alt="Client-ip" src="https://github.com/Davix4u/Cloud-Computing/assets/130823585/8c694dd8-5f6d-405e-910c-c35321bcda8d">
 
 
 ### Heading
