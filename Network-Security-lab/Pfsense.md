@@ -38,13 +38,15 @@ assign interface and we can only see two of them up (WAN and LAN) the rest re do
 2. follow the interface IP address assignment  and assign Ips to the remaining interface
 
     LAN = 172.16.0.1/24, OPT1= 192.168.100.1/24 OPT2=192.168.4.1/24 OPT3=SPANSPORT
+
 LAN configuration
 
 <img width="960" alt="pfsrnsr-lan-configuration" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/91eadd11-a45a-47d8-ad80-ab2b4c867662">
 
    You Should get something 
    
-<img width="960" alt="pfsrnsr-lan-configuration" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/17489a33-ddb2-4088-b3d7-00839b6ae1cc">
+<img width="960" alt="pfsense-4 face" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/9484d53e-4be9-4a53-9d94-be7c95f75d65">
+
 
 Your interfaces should be like that, to make adjustment to the pfsense interface and firewall rules accesss the web configurator. in this lab, we ll be using our kali virtual machines
 
