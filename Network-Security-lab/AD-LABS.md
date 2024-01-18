@@ -77,8 +77,29 @@ A step-by-step guide
 6. Under network status, click on change adapter options > Ethernet0 > Properties > TCP/IPv4 > Use the following IP as the DNS. Here on the client we enter
    the IP address of the server and click on OK to apply the settings.
 7. Next, open file explore, right-click on This PC and select propertites. Under computer name, click on change settings
-8. Under system properties, choose change > computer name and check the box Domain and enter the domain name of the server. Click OK.
+8.
+9.<img width="375" alt="client-1 test-server" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/11528cca-d213-40ab-8fd5-9f8bc5c53261">
+
+<img width="788" alt="client-2" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/319ff682-ee81-4521-8f45-f285067dad77">
+
+
+10.
+11.    Under system properties, choose change > computer name and check the box Domain and enter the domain name of the server. Click OK.
    Next is to enter the Administrator credentials to restart the machine.
+
+For a PoC, we can identify the client PC detected in our server which basically means we have successfully joinned our client machine to the server.
+
+<img width="960" alt="client-1-EDave" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/516f21a9-0093-432e-8410-ff5241b069e1">
+
+<img width="906" alt="client-2- sign in" src="https://github.com/Davix4u/Cyber-Security/assets/130823585/763cda92-abcd-422d-a4f7-a58878154028">
+
+Finally, log in to the client machine by entering the user  credentials.
+
+
+
+
+
+
 
    
 
